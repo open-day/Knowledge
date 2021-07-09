@@ -11,9 +11,7 @@ Our Open-Day App will contain following Features:
 #### Write an apply for Beta-Tester to our E-Mail: openday.development@gmail.com
 * Name, Firstname
 * Age
-* Experience
 * Subject: `Beta Tester | Firstname Name | Date`
-* Github account (optional)
   
 #### Write an apply for Developer to our E-Mail: openday.development@gmail.com 
 * Name, Firstname
