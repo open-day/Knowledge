@@ -12,7 +12,7 @@ Openday is a application to organize your day with a lot of features.
   
   # How to join OpenDay
   Write an apply to our E-Mail: openday.development@gmail.com
-   - Name, first Name
+   - Name, firstname
    - Age
    - Experience
    - Github account (optional)
